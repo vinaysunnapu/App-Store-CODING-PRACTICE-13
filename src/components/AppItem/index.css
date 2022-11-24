@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-image {
+  width: 50px;
+  height: 50px;
+}
+.app-list-container {
+  list-style-type: none;
+  margin: 10px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+}
